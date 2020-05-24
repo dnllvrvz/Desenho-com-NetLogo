@@ -52,3 +52,9 @@ Repare no botão azul na imagem abaixo:
 
 ### Modelo no NetLogo
 ![imagem6](img/i6.png)
+
+### Exportar seus desenhos
+
+Depois que você fizer seus desenhos, Clique em "File", depois "Export" e depois "Export View" para ter seu desenho salvo como uma image.
+
+![imagem7](img/i7.png)
