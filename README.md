@@ -10,7 +10,7 @@ Basicamente, com esse modelo nós somos capazes de criar uma quantidade específ
 
 E com isso dizemos podemos pedir para que esses agentes se movam para frente ou para traz ou que rotacionem determinado ângulo para a direita ou para a esquerda. E a cada passo que eles dão (o comprimento do passo também determinamos) eles podem deixar um rastro no mundo virtual, o que seria como se eles tivessem uma caneta que vai desenhando nesse mundo. Com isso, temos a capacidade de criar desenhos geométricos lindos.
 
-![imagem2](img/i2.png)
+![imagem2](img/i4.png)
 ![imagem2.5](img/2.5.png)
 ![imagem3](img/i3.png)
 
@@ -26,7 +26,7 @@ E com isso dizemos podemos pedir para que esses agentes se movam para frente ou 
 Alternativamente, podemos dizer para os agentes que a cada iteração da simulação, eles devem andar para frente um pouco e virar para um lado um pouco. Ambos parâmetros
 definimos. E assim comandamos os agentes a repetirem essas instruções em loop (por um número específico ou infinito de iterações), sempre aumentando o passo para a frente
 um pouquinho em relação ao último passo.
-![imagem4](img/i4.png)
+![imagem2](img/i2.png)
 
 E dessas simples regras emergem movimentos hipnotizantes dos agentes no mundo, cujos rastros formam padrões lindos, muitas vezes formando mandalas e estruturas fractais.
 
