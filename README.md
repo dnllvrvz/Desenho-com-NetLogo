@@ -46,6 +46,8 @@ Também é possível fazer o mesmo em um mundo virtual 3D, a partir do modelo 3D
 Para fazer os seus próprios desenhos, você precisa baixar o NetLogo no seu computador. É **gratuíto** e você pode baixar [aqui](https://ccl.northwestern.edu/netlogo/6.1.1/). Depois você precisa baixar e abrir os modelos que estão *nesse repositório ([Desenho com NetLogo](https://github.com/dnllvrvz/Desenho-com-NetLogo)) do Github*. E então você abre qualquer um dos 3 modelos que estão aqui dentro do NetLogo no seu computador e começa a desenhar.
 
 ### Download dos modelos
+
+Repare no botão azul na imagem abaixo:
 ![imagem5](img/i5.png)
 
 ### Modelo no NetLogo
