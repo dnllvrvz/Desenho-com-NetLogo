@@ -10,7 +10,11 @@ E com isso dizemos podemos pedir para que esses agentes se movam para frente ou 
 E a cada passo que eles dão (o comprimento do passo também determinamos) eles podem deixar um rastro no mundo virtual, o que seria como se eles tivessem uma caneta
 que vai desenhando nesse mundo. Com isso, temos a capacidade de criar desenhos geométricos lindos.
 ![imagem2](img/i2.png)
+![imagem2.5](img/i2.5.png)
 ![imagem3](img/i3.png)
+
+
+## Exemplos de Desenhos feitos "Manualmente"
 
 ![desenho1](img/d1.png)
 ![desenho2](img/d2.png)
@@ -23,6 +27,8 @@ um pouquinho em relação ao último passo.
 
 E dessas simples regras emergem movimentos hipnotizantes dos agentes no mundo, cujos rastros formam padrões lindos, muitas vezes formando mandalas e estruturas fractais.
 
+## Exemplos de Desenhos feitos em Loop
+
 ![desenho4](img/d4.png)
 ![desenho5](img/d5.png)
 ![desenho6](img/d6.png)
@@ -31,8 +37,10 @@ Também é possível fazer o mesmo em um mundo virtual 3D, a partir do modelo 3D
 
 # Como brincar
 
-Para fazer os seus próprios desenhos, você precisa baixar o NetLogo no seu computador. É [gratuíto](https://ccl.northwestern.edu/netlogo/6.1.1/). Depois você precisa baixar
-e abrir os modelos que estão nesse repositório do Github. E então você abre qualquer um dos 3 modelos no NetLogo no seu computador e começa a desenhar.
+Para fazer os seus próprios desenhos, você precisa baixar o NetLogo no seu computador. É **gratuíto** e você pode baixar [aqui](https://ccl.northwestern.edu/netlogo/6.1.1/). Depois você precisa baixar e abrir os modelos que estão *nesse repositório ([Desenho com NetLogo](https://github.com/dnllvrvz/Desenho-com-NetLogo)) do Github*. E então você abre qualquer um dos 3 modelos que estão aqui dentro do NetLogo no seu computador e começa a desenhar.
 
-![imagem4](img/i4.png)
+### Download dos modelos
+![imagem5](img/i5.png)
 
+### Modelo no NetLogo
+![imagem6](img/i6.png)
