@@ -23,9 +23,8 @@ E com isso dizemos podemos pedir para que esses agentes se movam para frente ou 
 
 ## Desenhando com Loops
 
-Alternativamente, podemos dizer para os agentes que a cada iteração da simulação, eles devem andar para frente um pouco e virar para um lado um pouco. Ambos parâmetros
-definimos. E assim comandamos os agentes a repetirem essas instruções em loop (por um número específico ou infinito de iterações), sempre aumentando o passo para a frente
-um pouquinho em relação ao último passo.
+Alternativamente, podemos dizer para os agentes que a cada iteração da simulação, eles devem andar para frente um pouco e virar para um lado um pouco. Ambos parâmetros definimos. E assim comandamos os agentes a repetirem essas instruções em loop (por um número específico ou infinito de iterações), sempre aumentando o passo para a frente um pouquinho em relação ao último passo.
+
 ![imagem2](img/i2.png)
 
 E dessas simples regras emergem movimentos hipnotizantes dos agentes no mundo, cujos rastros formam padrões lindos, muitas vezes formando mandalas e estruturas fractais.
